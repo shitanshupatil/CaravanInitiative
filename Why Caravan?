@@ -1,0 +1,39 @@
+Caravan is a server-side scripting language, like Microsoft ASP, JSP, PHP etc
+Caravan scripts are executed on the server
+You need a different mind set to understand Caravan and its features
+Caravan itself is written in C++, making it possible to encapsulate the major technologies, which are needed for building advanced applications. It has been built completely from scratch using a totally new and unique approach.
+It is possible to build almost any type of application by using a combination of the available objects. What is most unique to Caravan is that there are just a few object types that are required to do this.
+There is a common source for all platforms, so all versions are released simultaneously and there are no platform specific features or anomalies.
+
+Caravan has In Built	Description
+Application Server	with Scripting language embedded in HTML
+Database	RDBMS, Search Engine, Multi Dimensional, Circular. Access the database via any browser. No external database needed
+Communication Server	Emailing, FTP, Messaging, Serial Input/ Output, HTTP, TCP/IP & XML, SOAP compliant
+Cross platform	Develop-once-deploy-on-multiple-platforms without change in Source Code or Database. Works on - Linux, All Windows (NT, 2000, XP, 2003 and above), IBM OS/2 Warp, Any flavor of UNIX.
+Remote Administration (via a browser)	Maintain databases (create/modify/delete databases, tables, fields), source code, create groups and users
+Web Server	No need for Apache, IIS  or any other web server
+
+
+Caravan platform is an “.exe”
+
+Extremely Tiny footprint: Platform < 1 MB size
+
+To access caravan database you need only a browser.
+
+1 Tier architecture
+
+Setting up the development environment on your or developers machine in less than a minute!
+
+You can use any editor to develop Caravan based applications.
+
+You can Encrypt your source code before deploying (extension .cch). Encryption is done using a separate software >> encode.exe.
+
+Caravan is free to download and use for individual purpose. But if deployed for commercial use then licensing charges are applicable
+What is a Caravan File?
+Caravan files can contain text, HTML tags and scripts
+
+Caravan files are returned to the browser as plain HTML 
+
+Normal Caravan files have a file extension of ".html". But caravan files can have any extension. All Caravan source code files are kept in a user defined folder e.g templates. Files in this folder can have any extension, other than .html
+Why Caravan
+Caravan runs on different platforms (Windows, Linux, Unix, etc.)
